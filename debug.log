@@ -23,3 +23,6 @@
 [0108/090943:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0108/090944:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0108/090948:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0130/144231:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0130/144231:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0215/141417:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
