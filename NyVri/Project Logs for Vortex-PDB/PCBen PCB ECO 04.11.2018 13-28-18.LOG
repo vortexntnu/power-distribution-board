@@ -1,0 +1,33 @@
+Change Component Comment : Designator=D6 Old Comment=Connect? New Comment=Connect1
+Change Component Comment : Designator=D1 Old Comment=Connect? New Comment=Connect2
+Change Component Comment : Designator=D4 Old Comment=Connect? New Comment=Connect3
+Change Component Comment : Designator=D5 Old Comment=Connect? New Comment=Connect4
+Change Component Comment : Designator=D3 Old Comment=Connect? New Comment=Connect5
+Change Component Comment : Designator=D2 Old Comment=Connect? New Comment=Connect6
+Change Component Comment : Designator=D7 Old Comment=Connect? New Comment=Connect7
+Change Component Comment : Designator=D8 Old Comment=Connect? New Comment=Connect8
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D6
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D1
+Change Net Name : Old Net Name=NetD1_22 New Net Name=NetD2_22
+Change Net Name : Old Net Name=NetD1_23 New Net Name=NetD2_23
+Change Net Name : Old Net Name=NetD1_24 New Net Name=NetD2_24
+Change Net Name : Old Net Name=NetD2_22 New Net Name=NetD6_22
+Change Net Name : Old Net Name=NetD2_23 New Net Name=NetD6_23
+Change Net Name : Old Net Name=NetD2_24 New Net Name=NetD6_24
+Change Net Name : Old Net Name=NetD3_22 New Net Name=NetD5_22
+Change Net Name : Old Net Name=NetD3_23 New Net Name=NetD5_23
+Change Net Name : Old Net Name=NetD3_24 New Net Name=NetD5_24
+Change Net Name : Old Net Name=NetD4_22 New Net Name=NetD3_22
+Change Net Name : Old Net Name=NetD4_23 New Net Name=NetD3_23
+Change Net Name : Old Net Name=NetD4_24 New Net Name=NetD3_24
+Change Net Name : Old Net Name=NetD5_22 New Net Name=NetD4_22
+Change Net Name : Old Net Name=NetD5_23 New Net Name=NetD4_23
+Change Net Name : Old Net Name=NetD5_24 New Net Name=NetD4_24
+Change Net Name : Old Net Name=NetD6_22 New Net Name=NetD1_22
+Change Net Name : Old Net Name=NetD6_23 New Net Name=NetD1_23
+Change Net Name : Old Net Name=NetD6_24 New Net Name=NetD1_24
+Added Room: Name=Skjema

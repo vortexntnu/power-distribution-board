@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetD6_22 Pin=D6-22
+Added Pin To Net: NetName=NetD6_22 Pin=Q2-12
+Added Net: Name=NetD6_22
+Added Pin To Net: NetName=NetD6_23 Pin=D6-23
+Added Pin To Net: NetName=NetD6_23 Pin=Q2-11
+Added Net: Name=NetD6_23
+Added Pin To Net: NetName=NetD6_24 Pin=D6-24
+Added Pin To Net: NetName=NetD6_24 Pin=Q2-10
+Added Net: Name=NetD6_24
+Added Room: Name=Skjema

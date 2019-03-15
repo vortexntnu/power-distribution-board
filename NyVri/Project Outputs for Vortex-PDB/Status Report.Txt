@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Vortex-PDB.PrjPCB]
+   Generated File[PCBen.GTO]
+   Generated File[PCBen.GTP]
+   Generated File[PCBen.GTS]
+   Generated File[PCBen.GTL]
+   Generated File[PCBen.GBL]
+   Generated File[PCBen.GBS]
+   Generated File[PCBen.GBP]
+   Generated File[PCBen.GBO]
+   Generated File[PCBen.GM1]
+   Generated File[PCBen.GM13]
+   Generated File[PCBen.GM15]
+   Generated File[PCBen.GKO]
+   Generated File[PCBen.GPT]
+   Generated File[PCBen.GPB]
+   Generated File[PCBen.GD1]
+   Generated File[PCBen.RUL]
+   Generated File[PCBen.EXTREP]
+   Generated File[PCBen.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 11:42:08 On 20.01.2019

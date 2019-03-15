@@ -1,0 +1,100 @@
+Added Component: Designator=D1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(ESC - Org)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(ESC - Org)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+14.8 Pin=Q1-13
+Added Pin To Net: NetName=+14.8 Pin=Q2-13
+Added Net: Name=+14.8
+Added Pin To Net: NetName=GND Pin=Q1-14
+Added Pin To Net: NetName=GND Pin=Q2-14
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_22 Pin=D1-22
+Added Pin To Net: NetName=NetD1_22 Pin=Q2-9
+Added Net: Name=NetD1_22
+Added Pin To Net: NetName=NetD1_23 Pin=D1-23
+Added Pin To Net: NetName=NetD1_23 Pin=Q2-8
+Added Net: Name=NetD1_23
+Added Pin To Net: NetName=NetD1_24 Pin=D1-24
+Added Pin To Net: NetName=NetD1_24 Pin=Q2-7
+Added Net: Name=NetD1_24
+Added Pin To Net: NetName=NetD2_22 Pin=D2-22
+Added Pin To Net: NetName=NetD2_22 Pin=Q2-12
+Added Net: Name=NetD2_22
+Added Pin To Net: NetName=NetD2_23 Pin=D2-23
+Added Pin To Net: NetName=NetD2_23 Pin=Q2-11
+Added Net: Name=NetD2_23
+Added Pin To Net: NetName=NetD2_24 Pin=D2-24
+Added Pin To Net: NetName=NetD2_24 Pin=Q2-10
+Added Net: Name=NetD2_24
+Added Pin To Net: NetName=NetD3_22 Pin=D3-22
+Added Pin To Net: NetName=NetD3_22 Pin=Q1-1
+Added Net: Name=NetD3_22
+Added Pin To Net: NetName=NetD3_23 Pin=D3-23
+Added Pin To Net: NetName=NetD3_23 Pin=Q1-2
+Added Net: Name=NetD3_23
+Added Pin To Net: NetName=NetD3_24 Pin=D3-24
+Added Pin To Net: NetName=NetD3_24 Pin=Q1-3
+Added Net: Name=NetD3_24
+Added Pin To Net: NetName=NetD4_22 Pin=D4-22
+Added Pin To Net: NetName=NetD4_22 Pin=Q2-1
+Added Net: Name=NetD4_22
+Added Pin To Net: NetName=NetD4_23 Pin=D4-23
+Added Pin To Net: NetName=NetD4_23 Pin=Q2-2
+Added Net: Name=NetD4_23
+Added Pin To Net: NetName=NetD4_24 Pin=D4-24
+Added Pin To Net: NetName=NetD4_24 Pin=Q2-3
+Added Net: Name=NetD4_24
+Added Pin To Net: NetName=NetD5_22 Pin=D5-22
+Added Pin To Net: NetName=NetD5_22 Pin=Q1-9
+Added Net: Name=NetD5_22
+Added Pin To Net: NetName=NetD5_23 Pin=D5-23
+Added Pin To Net: NetName=NetD5_23 Pin=Q1-8
+Added Net: Name=NetD5_23
+Added Pin To Net: NetName=NetD5_24 Pin=D5-24
+Added Pin To Net: NetName=NetD5_24 Pin=Q1-7
+Added Net: Name=NetD5_24
+Added Pin To Net: NetName=NetD6_22 Pin=D6-22
+Added Pin To Net: NetName=NetD6_22 Pin=Q1-4
+Added Net: Name=NetD6_22
+Added Pin To Net: NetName=NetD6_23 Pin=D6-23
+Added Pin To Net: NetName=NetD6_23 Pin=Q1-5
+Added Net: Name=NetD6_23
+Added Pin To Net: NetName=NetD6_24 Pin=D6-24
+Added Pin To Net: NetName=NetD6_24 Pin=Q1-6
+Added Net: Name=NetD6_24
+Added Pin To Net: NetName=NetD7_22 Pin=D7-22
+Added Pin To Net: NetName=NetD7_22 Pin=Q2-4
+Added Net: Name=NetD7_22
+Added Pin To Net: NetName=NetD7_23 Pin=D7-23
+Added Pin To Net: NetName=NetD7_23 Pin=Q2-5
+Added Net: Name=NetD7_23
+Added Pin To Net: NetName=NetD7_24 Pin=D7-24
+Added Pin To Net: NetName=NetD7_24 Pin=Q2-6
+Added Net: Name=NetD7_24
+Added Pin To Net: NetName=NetD8_22 Pin=D8-22
+Added Pin To Net: NetName=NetD8_22 Pin=Q1-12
+Added Net: Name=NetD8_22
+Added Pin To Net: NetName=NetD8_23 Pin=D8-23
+Added Pin To Net: NetName=NetD8_23 Pin=Q1-11
+Added Net: Name=NetD8_23
+Added Pin To Net: NetName=NetD8_24 Pin=D8-24
+Added Pin To Net: NetName=NetD8_24 Pin=Q1-10
+Added Net: Name=NetD8_24
+Added Class: Name=Skjema
+Added Room: Name=Skjema
