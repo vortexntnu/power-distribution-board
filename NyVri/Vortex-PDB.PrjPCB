@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IPBXYDXC
 
 [Document2]
-DocumentPath=PCBen.PcbDoc
+DocumentPath=..\..\Temp\PCBen.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
